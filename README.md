@@ -153,4 +153,4 @@ As tarefas foram organizadas em um quadro Kanban, disponível em [`planejamento/
 
 ## Vídeo de demonstração
 
-[link do vídeo em breve]
+https://drive.google.com/file/d/1roTKOSzXlyK-AC9q0zGRCvqGMSUoXWbu/view?usp=sharing
